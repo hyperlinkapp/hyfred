@@ -1,0 +1,1 @@
+Alfred workflow for Hyperlink.
