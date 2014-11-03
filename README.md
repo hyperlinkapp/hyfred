@@ -1,5 +1,8 @@
 Alfred workflow for Hyperlink.
 
+## Download
+[download](https://github.com/hyperlinkapp/hyfred/raw/master/Hyperlink.alfredworkflow)
+
 ## Usage
 
 After installation, use `hitoken <token>` to set your Hyperlink token.
